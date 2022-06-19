@@ -1,14 +1,5 @@
 .body{
     margin: 0px;
-    height: 2500px;
+    height: 2100px;
 }
-.body {
-    width: 100%;
-  }
-  
-  @media (min-width: 1700px) {
-    .body {
-      width: 50%;
-      height:100%;
-    }
-  }
+
