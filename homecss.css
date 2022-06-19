@@ -1,0 +1,14 @@
+.body{
+    margin: 0px;
+    height: 1500px;
+}
+.body {
+    width: 100%;
+  }
+  
+  @media (min-width: 1700px) {
+    .body {
+      width: 50%;
+      height:100%;
+    }
+  }
