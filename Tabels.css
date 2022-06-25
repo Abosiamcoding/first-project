@@ -1,0 +1,37 @@
+.body{
+    margin: 0px;
+}
+.header{
+   margin: 0px;
+   font-family: Lobster;
+}
+.table-background{
+    height: 2100px;
+    width: 100%;
+    position: relative;
+}
+/* CSS for Tables */
+.Table-one{
+    top: 12%;
+    left: 3%;
+}
+.Table-2{
+    top:37%;
+    right: 3%;
+}
+.Table-3{
+    top: 60%;
+    left: 3%; 
+}
+.Table-4{
+    top: 83%;
+    left: 3%;
+}
+.Table-one ,.Table-2,.Table-3,.Table-4{
+    position: absolute;
+    display:inline-flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
